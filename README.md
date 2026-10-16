@@ -73,22 +73,7 @@ The retention engine converts model probabilities into prioritized business acti
 
 ---
 
-## ⚙️ Quick Start
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/tayade-aniket/customer-churn-analytics.git
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
----
-
 ## 👤 Author
-**Aniket Tayade**
-*   **Portfolio:** [aniket-tayade-nine.vercel.app](https://aniket-tayade-nine.vercel.app/)
-*   **LinkedIn:** [linkedin.com/in/aniket-g-tayade](https://www.linkedin.com/in/aniket-g-tayade/)
-*   **GitHub:** [github.com/tayade-aniket](https://github.com/tayade-aniket/)
-
----
-*If you found this project insightful, please give it a ⭐!*
+**Raj Walave**
+*   **LinkedIn:** [linkedin.com/in/rajwalave](https://www.linkedin.com/in/rajwalave/)
+*   **GitHub:** [github.com/rajwalave](https://github.com/rajwalave/)
